@@ -1,1 +1,3 @@
-An idea for a baby yoda based tamagatchi game. 
+An idea for a baby yoda based tamagatchi game.
+
+need to research GUI capabilities 
